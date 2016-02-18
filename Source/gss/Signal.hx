@@ -1,0 +1,5 @@
+package gss;
+
+enum Signal {
+	
+}
